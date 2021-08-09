@@ -1,7 +1,7 @@
 :root{
   --primary: #f393fd;
   --primary-darken: #c051d0;
-  --bg: rgb(206, 195, 195);
+  --bg: rgb(190, 252, 89);
   --shadow: 2px 0 8px rgba(0,0,0, .3);
   --corners: 10px;
   --text-color: rgb(37, 35, 35);
